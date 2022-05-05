@@ -170,7 +170,7 @@ But screens aren’t the only type of media we can target, of course. We have a 
 - speech: Matches devices that read the content audibly, such as a screenreader. This replaces the now deprecated aural type since Media Queries Level 4.
   
 
-- #### [Media features](https://developer.mozilla.org/en-US/docs/Web/CSS/@media#media_features)
+- ## [Media features](https://developer.mozilla.org/en-US/docs/Web/CSS/@media#media_features)
 Once we define the type of media we’re trying to match, we can start defining what features we are trying to match it to. We’ve looked at a lot of examples that match screens to width, where screen is the type and both min-width and max-width are features with specific values.
 
 But there are many, many (many!) more “features” we can match. Media Queries Level 4 groups 18 media features into 5 categories.
