@@ -176,22 +176,22 @@ Once we define the type of media we’re trying to match, we can start defining 
 But there are many, many (many!) more “features” we can match. Media Queries Level 4 groups 18 media features into 5 categories.
 
 - ### Viewport/Page Characteristics
-  ![Viewport/Page Characteristics](images/viewport-page-characteristics)
+  ![Viewport/Page Characteristics](/images/viewport-page-characteristics.png)
 - ### Display Quality
-![Display Quality](images/display-quality)
+![Display Quality](/images/display-quality.png)
 - ### Color
 ![Color](images/color)
   - ### Interaction
-![Interaction](images/interaction)
+![Interaction](/images/interaction.png)
    - ### Video Prefixed
   The spec references user agents, including TVs, that render video and graphics in two separate planes that each have their own characteristics. The following features describe those planes.
-![Video Prefixed](images/video-prefixed)
+![Video Prefixed](/images/video-prefixed.png)
   - ### Scripting
-![Scripting](images/scripting)
+![Scripting](/images/scripting.png)
    - ### User Preference
-![User Preference](images/user-preference)
+![User Preference](/images/user-preference.png)
  - ### Deprecated
-![Deprecated](images/deprecated)
+![Deprecated](/images/deprecated.png)
   
   
 - ## Operators
