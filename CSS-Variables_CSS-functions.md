@@ -86,7 +86,7 @@ In this case, the results of var(--test) are:
 - For the class="four" element: 10px (inherited from its parent)
 - For the class="one" element: invalid value, which is the default value of any custom property
 
-Keep in mind that these are custom properties, not actual variables like you might find in other programming languages. The value is computed where it is needed, not stored for use in other rules. For instance, you cannot set a property for an element and expect to retrieve it in a sibling's descendant's rule. The property is only set for the matching selector and its descendants, like any normal CSS.
+**Keep in mind that these are custom properties, not actual variables like you might find in other programming languages. The value is computed where it is needed, not stored for use in other rules. For instance, you cannot set a property for an element and expect to retrieve it in a sibling's descendant's rule. The property is only set for the matching selector and its descendants, like any normal CSS.**
 
 # Custom property fallback values
 
