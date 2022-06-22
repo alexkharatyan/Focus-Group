@@ -15,7 +15,7 @@ In a nutshell, PWA is an optimized web page to provide app-like functionalities 
 
 For better understanding, let’s give you an example of Twitter. Well, Twitter is the company that’s using PWAs. When you open the web version on your phone and install the app, add it to your home screen. When you open the Twitter app from the home screen icon, that will be opened as a progressive web app.
 
-![web pwa](web-pwa.png)
+![web pwa](/images/web-pwa.png)
 
 Even the mobile websites of Amazon and Flipkart look and feel exactly like their mobile app. This is PWA.
 
@@ -81,9 +81,9 @@ AMPs are simple as it contains 10 times fewer data than a usual website or app. 
 In recent times, AMP has been widely used for creating web pages that can load almost instantly. The open-source library is compatible across browsers and supports several platforms.
 
 
-Check the full explanation [here]().
+Check the full explanation [here](https://github.com/alexkharatyan/Focus-Group/blob/main/AMP_Accelerated-mobile-pages.md).
 
-![amp, pwa differences](difference-between-pwa-and-amp.png)
+![amp, pwa differences](/images/difference-between-pwa-and-amp.png)
 
 
 ## PWA Vs AMP: Which One Should You Choose?
